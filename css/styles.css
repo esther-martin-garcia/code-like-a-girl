@@ -1,0 +1,15 @@
+h1{
+text-align:center;
+background-color: #0dcf6e;
+}
+h2{
+    text-align: center;
+    background-color: #11eb2e
+}
+.subtitulo{
+    border: solid 2px;
+    font-family: Arial;
+}
+body{
+    background: #ec9d0a
+}
